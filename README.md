@@ -1,0 +1,1 @@
+# fortuna-bin-win64
