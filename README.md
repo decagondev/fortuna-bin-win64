@@ -1,4 +1,8 @@
 # fortuna-bin-win64
+## Requirements
+- Python 3.11
+- Windows x64
+  
 ## Install
 **Windows**
 ```
